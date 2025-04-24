@@ -9,8 +9,7 @@
 - 🎓 Diploma Graduate in Software Development at SAIT, Calgary  
 - 💡 Skilled in building full-stack apps using the MERN stack  
 - 🧪 Enjoy building scalable and modern UIs with Tailwind and React  
-- 💬 Ask me about anything MERN or real-time apps with WebSocket  
-- 📫 Reach me at: **priyanshukuchhadiya165@gmail.com**
+- 💬 Ask me about anything MERN or real-time apps with WebSocket
 ---
 
 ### 🎯 2025 Goals
