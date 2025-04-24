@@ -11,14 +11,6 @@
 - 🧪 Enjoy building scalable and modern UIs with Tailwind and React  
 - 💬 Ask me about anything MERN or real-time apps with WebSocket  
 - 📫 Reach me at: **priyanshukuchhadiya165@gmail.com**
-
----
-
-### 🗺️ Current Roadmap
-- 🚧 Building EduPlatform with full teacher-student workflow
-- 🌐 Exploring advanced React patterns (Hooks, Context, SSR with Next.js)
-- 🧠 Learning AWS cloud basics for hosting and deployment
-
 ---
 
 ### 🎯 2025 Goals
