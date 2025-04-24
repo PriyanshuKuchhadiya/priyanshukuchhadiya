@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Priyanshu Kuchhadiya</h1>
 <h3 align="center">💻 Full-Stack Developer | 🌐 SAIT Graduate | 🚀 Web & App Creator</h3>
 
@@ -5,11 +6,25 @@
 
 ### 🧑‍💼 About Me
 
-- 🌱 Diploma Graduate in Software Development at SAIT, Calgary  
+- 🎓 Diploma Graduate in Software Development at SAIT, Calgary  
 - 💡 Skilled in building full-stack apps using the MERN stack  
-- 🚧 Currently working on **EduPlatform** – a course and assignment management app  
+- 🧪 Enjoy building scalable and modern UIs with Tailwind and React  
 - 💬 Ask me about anything MERN or real-time apps with WebSocket  
 - 📫 Reach me at: **priyanshukuchhadiya165@gmail.com**
+
+---
+
+### 🗺️ Current Roadmap
+- 🚧 Building EduPlatform with full teacher-student workflow
+- 🌐 Exploring advanced React patterns (Hooks, Context, SSR with Next.js)
+- 🧠 Learning AWS cloud basics for hosting and deployment
+
+---
+
+### 🎯 2025 Goals
+- ✅ Launch 2 full-stack apps
+- ✅ Contribute to 3 open-source projects
+- 🚀 Publish a technical blog on MERN architecture
 
 ---
 
@@ -48,6 +63,14 @@
 
 ---
 
+### 🛠️ Developer Tools
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
 ### 📊 GitHub Stats
 
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshukuchhadiya&show_icons=true&theme=react)
@@ -73,4 +96,5 @@
 
 ---
 
+### 🧠 Fun Fact
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
