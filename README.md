@@ -1,46 +1,76 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kuchhadiya</h1>
-<h3 align="center">Full-Stack Developer | Web & App Development Enthusiast</h3>
-
-<p align="center">
-🎓 SAIT Diploma Graduate in Software Development • 🌐 Passionate about building web & mobile solutions <br>
-💬 Tech Stack: HTML, CSS, JavaScript, React, Tailwind, Firebase, MongoDB, Express, WebSocket, Docker
-</p>
+<h3 align="center">💻 Full-Stack Developer | 🌐 SAIT Graduate | 🚀 Web & App Creator</h3>
 
 ---
 
-### 🚀 Projects
+### 🧑‍💼 About Me
 
-- 🔷 **[Diamond Management System](https://diamondmanagment.vercel.app/Pages/login)**  
-  A secure and modern platform for managing diamond inventory and operations.
-
-- 🧠 **[SmartQuizHub](https://smartquizhub.vercel.app/)**  
-  A real-time quiz application with WebSocket for dynamic hosting and live scoring.
-
-- 📚 **EduPlatform** *(in development)*  
-  A learning platform with integrated course management, assignments, and performance tracking.
+- 🌱 Diploma Graduate in Software Development at SAIT, Calgary  
+- 💡 Skilled in building full-stack apps using the MERN stack  
+- 🚧 Currently working on **EduPlatform** – a course and assignment management app  
+- 💬 Ask me about anything MERN or real-time apps with WebSocket  
+- 📫 Reach me at: **priyanshukuchhadiya165@gmail.com**
 
 ---
 
-### 🛠 What I Do
-- Frontend & Backend Development
-- REST APIs and Real-time communication with WebSockets
-- Database design with MongoDB
-- Deployment & DevOps using Docker & Vercel
+### 🔗 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kuchhadiya-065b41303)
 
 ---
 
-### 🌱 Currently Learning
-- Advanced backend architecture and microservices  
-- CI/CD pipelines for production-ready apps
+### 🚀 Featured Projects
+
+- 🔷 [**Diamond Management System**](https://diamondmanagment.vercel.app/Pages/login)  
+  A robust platform for diamond business management operations.
+
+- 🧠 [**SmartQuizHub**](https://smartquizhub.vercel.app/)  
+  Real-time quiz system using WebSocket with live scoreboard.
+
+- 📚 **EduPlatform** *(in progress)*  
+  Teacher-student platform with course tracking and submissions.
 
 ---
 
-### 📫 Connect with Me
+### 🛠 Tech Stack
 
-- 📧 Email: [priyanshukuchhadiya165@gmail.com](mailto:priyanshukuchhadiya165@gmail.com)
-- 💼 LinkedIn: [Priyanshu Kuchhadiya](https://www.linkedin.com/in/priyanshu-kuchhadiya-065b41303)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4D4D4D?style=flat&logo=websocket&logoColor=white)
 
 ---
 
-### ⚡ Fun Fact
-I love turning ideas into fully functional products — one clean line of code at a time!
+### 📊 GitHub Stats
+
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshukuchhadiya&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukuchhadiya&layout=compact&theme=react)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=priyanshukuchhadiya&theme=gruvbox&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=priyanshukuchhadiya&theme=dark)](https://git.io/streak-stats)
+
+---
+
+### 📈 Contribution Graph
+
+[![Priyanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshukuchhadiya&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
